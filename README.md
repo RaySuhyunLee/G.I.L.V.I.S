@@ -1,8 +1,12 @@
 # G.I.L.V.I.S.
 G.I.L.V.I.S.는 생활 패턴을 관리해주는 음성 비서입니다.  
-케이스 도면은 [여기](https://cad.onshape.com/documents/460efd710803a990c7069765/w/7e369ce6ce7d59de30c91fde/e/051c4f38319cbc7ef75e2389)를 참조해주세요.  
+케이스 도면은 [여기](https://cad.onshape.com/documents/460efd710803a990c7069765/w/7e369ce6ce7d59de30c91fde/e/051c4f38319cbc7ef75e2389)를 참조해주세요.  
+작동 영상은 [여기](https://www.youtube.com/edit?video_id=5HfwNF0sRBU)를 참조해주세요.
 G.I.L.V.I.S.는 개발 초기 단계에 있으며, 현재 지원하는 기능은 다음과 같습니다.
 
 * 시간대별 기상 시각 알림
 * 시간대별 취침 시각 알림
 * 기상시(빛 감지시) 스트레칭 음악 제공
+
+## 왜 G.I.L.V.I.S.인가요?
+같은 과 동기인 최길웅씨의 아이디어에서 탄생했습니다. 영화 아이언맨에 나오는 자비스를 모티브로 하여 길웅 + 자비스 = G.I.L.V.I.S.라 명명했습니다.
